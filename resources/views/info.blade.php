@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Home</h1>
-    <ul>
-        <li><a href="/info">info</a></li>
-    </ul>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim, optio sequi. Temporibus vero error dolores repudiandae nihil, eius illum voluptates nulla deleniti dolorem neque distinctio eveniet! Eos laudantium numquam labore!</p>
 </body>
 </html>
